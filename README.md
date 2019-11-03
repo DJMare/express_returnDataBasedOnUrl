@@ -61,6 +61,7 @@ MYSQL
 VS CODE
 
 (14) Navigate to the routes/index.js file and update. Need to require the mySQL, add the connection information to connect to mySQL:
+
 (15) Add get() method to route /actor to the index.js file: 
 
 (16) Create views/actor.hbs file with form and loop: 
