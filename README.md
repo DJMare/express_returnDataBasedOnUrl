@@ -28,7 +28,7 @@ COMMAND PROMPT
 (6) Once the process is complete, navigate into the express_mySQL_returnDataBasedOnUrl directory: 
    cd express_mySQL_returnDataBasedOnUrl
 
-(7) Now in the express_mySQL_ directory, run the following: 
+(7) Now in the express_mySQL_returnDataBasedOnUrl directory, run the following: 
 
     npm install
 
