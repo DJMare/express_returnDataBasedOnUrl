@@ -37,7 +37,7 @@ COMMAND PROMPT
 
     npm install -g nodemon
     
-(9) Install Nodemon as a devDependency in the package.json file within the express_mySQL_ directory:
+(9) Install Nodemon as a devDependency in the package.json file within the express_mySQL_returnDataBasedOnUrl directory:
 
     npm install -save-dev nodemon
     
