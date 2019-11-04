@@ -60,7 +60,8 @@ MYSQL
 
 VS CODE
 
-(14) Navigate to the routes/index.js file and update. Need to require the mySQL, add the connection information to connect to mySQL:
+(14) Navigate to the routes/index.js file and update. Need to require the mySQL, add the connection information to connect to mySQL: ![open index js file (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68095732-c5c75000-fe60-11e9-9945-7067c8f68a6e.JPG)
+
 
 (15) Add get() method to route /actor to the index.js file: 
 
