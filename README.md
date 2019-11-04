@@ -65,14 +65,9 @@ VS CODE
 
 (15) Add get() method to route /film to the index.js file: 
 
-(16) Create views/actor.hbs file with form and loop: 
+(16) Create views/film.hbs file with loop: 
 
-(17) Update post() method to log form and add newActor:
-
-(18) Create a new variable of actorList to run a SELECT statement in the routes.index.js file to check if the actor is already in the list:
 
 WEB BROWSER
 
-(19) Navigate to localhost:3000/actor to view form and list: 
-
-(20) Fill out form to add new actor: 
+(19) Navigate to localhost:3000/film to view form and list: 
