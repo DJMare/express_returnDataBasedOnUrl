@@ -55,7 +55,7 @@ COMMAND PROMPT
 
 MYSQL
 
-(13) run a select query in mySQL to view all the actors:  
+(13) run a select query in mySQL:  
 
 
 VS CODE
@@ -63,7 +63,7 @@ VS CODE
 (14) Navigate to the routes/index.js file and update. Need to require the mySQL, add the connection information to connect to mySQL: ![open index js file (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68095732-c5c75000-fe60-11e9-9945-7067c8f68a6e.JPG)
 
 
-(15) Add get() method to route /actor to the index.js file: 
+(15) Add get() method to route /film to the index.js file: 
 
 (16) Create views/actor.hbs file with form and loop: 
 
