@@ -58,10 +58,11 @@ MYSQL
 (13) run a select query in mySQL to view all the films: ![run a select query in mySQL to view all films (mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178039-43fa2400-ff3f-11e9-8089-c8e3093c4f86.JPG)
 
 
-
 VS CODE
 
 (14) Navigate to the routes/index.js file and update. Need to require the mySQL, add the connection information to connect to mySQL: ![open index js file (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68095732-c5c75000-fe60-11e9-9945-7067c8f68a6e.JPG)
+
+![add info to connect to mySQL index js file (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178093-7b68d080-ff3f-11e9-862e-5c1e91fae2df.JPG)
 
 
 (15) Add get() method to route /film to the index.js file: 
