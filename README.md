@@ -68,9 +68,12 @@ VS CODE
 (15) Create a get() method to for /film to the index.js file: ![create new get() method in index js file for film (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178169-c4208980-ff3f-11e9-9443-efd0ed8e7d61.JPG)
 
 
-(16) Create views/film.hbs file with loop: 
+(16) Create a new query in the index.js file for film search: ![create new query in index js file for film search (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178224-fe8a2680-ff3f-11e9-96d2-d04c602b758b.JPG)
+
+
+() Create views/film.hbs file with loop: 
 
 
 WEB BROWSER
 
-(19) Navigate to localhost:3000/film to view form and list: 
+() Navigate to localhost:3000/film to view form and list: 
