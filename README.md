@@ -80,7 +80,7 @@ VS CODE
 (19) Create views/filmDetails.hbs file with loop: ![create new filmDetails hbs file in the views folder and add handlebars (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178622-89b7ec00-ff41-11e9-9a89-0ab23315034d.JPG)
 
 
-
 WEB BROWSER
 
-() Navigate to localhost:3000/film to view form and list: 
+(20) Navigate to localhost:3000/film to view list: ![navigate to localhost3000 to view films (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178704-dd2a3a00-ff41-11e9-8d4d-0fe8f46e6f3d.JPG)
+
