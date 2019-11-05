@@ -55,7 +55,7 @@ COMMAND PROMPT
 
 MYSQL
 
-(13) run a select query in mySQL:  
+(13) run a select query in mySQL to view all the films:  
 
 
 VS CODE
