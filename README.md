@@ -77,6 +77,9 @@ VS CODE
 (18) Create views/film.hbs file with loop: ![create new film hbs file in the views folder and add handlebars (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178563-54130300-ff41-11e9-9928-349b668e91b5.JPG)
 
 
+(19) Create views/filmDetails.hbs file with loop: ![create new filmDetails hbs file in the views folder and add handlebars (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178622-89b7ec00-ff41-11e9-9a89-0ab23315034d.JPG)
+
+
 
 WEB BROWSER
 
