@@ -65,7 +65,8 @@ VS CODE
 ![add info to connect to mySQL index js file (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178093-7b68d080-ff3f-11e9-862e-5c1e91fae2df.JPG)
 
 
-(15) Add get() method to route /film to the index.js file: 
+(15) Create a get() method to for /film to the index.js file: ![create new get() method in index js file for film (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178169-c4208980-ff3f-11e9-9443-efd0ed8e7d61.JPG)
+
 
 (16) Create views/film.hbs file with loop: 
 
