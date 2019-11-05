@@ -70,11 +70,12 @@ VS CODE
 
 (16) Create a new query in the index.js file for film search: ![create new query in index js file for film search (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178224-fe8a2680-ff3f-11e9-96d2-d04c602b758b.JPG)
 
+
 (17) Create new get() method in index.js file for film details and query for film actor: ![create new get() method in index js file for film details and query for film actor(express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178472-00a0b500-ff41-11e9-8273-e5a73fb66e49.JPG)
 
 
+(18) Create views/film.hbs file with loop: ![create new film hbs file in the views folder and add handlebars (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178563-54130300-ff41-11e9-9928-349b668e91b5.JPG)
 
-() Create views/film.hbs file with loop: 
 
 
 WEB BROWSER
