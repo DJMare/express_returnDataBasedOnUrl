@@ -84,4 +84,5 @@ WEB BROWSER
 
 (20) Navigate to localhost:3000/film to view list: ![navigate to localhost3000 to view films (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68178704-dd2a3a00-ff41-11e9-8d4d-0fe8f46e6f3d.JPG)
 
-(21) Navigate to localhost:3000/film/5 to view specific filmDetails: 
+(21) Navigate to localhost:3000/film/5 to view specific filmDetails: ![navigate to localhost3000 to view specific filmDetails (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68259153-e96bd100-ffed-11e9-8b78-d42391ba41ee.JPG)
+
