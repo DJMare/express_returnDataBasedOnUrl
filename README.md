@@ -86,3 +86,7 @@ WEB BROWSER
 
 (21) Navigate to localhost:3000/film/5 to view specific filmDetails: ![navigate to localhost3000 to view specific filmDetails (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68259153-e96bd100-ffed-11e9-8b78-d42391ba41ee.JPG)
 
+COMMAND PROMPT/VS CODE
+
+(22) View details in terminal: ![view specific filmDetails in terminal (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68259286-4ff0ef00-ffee-11e9-9204-e7207e1dde5e.JPG)
+
