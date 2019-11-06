@@ -90,12 +90,17 @@ COMMAND PROMPT/VS CODE
 
 (22) View details in terminal: ![view specific filmDetails in terminal (express_mySQL_returnDataBasedOnUrl)](https://user-images.githubusercontent.com/35668707/68259286-4ff0ef00-ffee-11e9-9204-e7207e1dde5e.JPG)
 
-NODEMON NOTE ---
+NODEMON NOTE
 
 Sometimes nodemon crashes in Windows 10 and there is a simple fix:
-	(1) Open Task manager (press Ctrl+Alt+Delete)
-	(2) Select the 'Processes tab'
-	(3) Search for 'Node.js: Server-side JavaScript'
-	(4) Select it and click on 'End task' button
+
+(1) Open Task manager (press Ctrl+Alt+Delete)
+
+(2) Select the 'Processes tab'
+
+(3) Search for 'Node.js: Server-side JavaScript'
+
+(4) Select it and click on 'End task' button
+
 Now you can run npm start.
 
