@@ -1,5 +1,5 @@
 # returnDataBasedOnUrl
-an Express web application that returns data from the database based on the route provided in the URL.
+An Express web application that returns data from the database based on the route provided in the URL.
 
 Install mySQL: https://dev.mysql.com/downloads/installer/ 
 
